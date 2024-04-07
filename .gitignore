@@ -1,0 +1,4 @@
+bin/DNN_test
+obj/get_mnist.o
+obj/main.o
+src/main.cpp_bc
